@@ -138,7 +138,7 @@ html{
 {
     display: flex;
     flex-wrap: wrap;
-    background: url(../images/banner1.jfif) no-repeat ;
+    background: url(banner1.jfif) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
